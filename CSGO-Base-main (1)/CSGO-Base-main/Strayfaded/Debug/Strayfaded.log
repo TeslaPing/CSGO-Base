@@ -1,0 +1,67 @@
+﻿  WorldToScreen.cpp
+C:\Users\olive\Documents\MEGAsync Downloads\CSGO-Base-main (1)\CSGO-Base-main\Strayfaded\Vector.h(8,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\MEGAsync Downloads\CSGO-Base-main (1)\CSGO-Base-main\Strayfaded\Vector.h(36,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\olive\Documents\MEGAsync Downloads\CSGO-Base-main (1)\CSGO-Base-main\Strayfaded\Vector.h(38,1): warning C4305: '=': truncation from 'double' to 'float'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+DirectX.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+DirectX.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+DirectX.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+DirectX.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+DirectX.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+DirectX.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+dllmain.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Drawing.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Engine.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Entity.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Hook.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+LocalPlayer.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Recoil.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+Triggerbot.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "struct IDirect3DDevice9 * DXDEVICE" (?DXDEVICE@@3PAUIDirect3DDevice9@@A) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "class USettings UserSettings" (?UserSettings@@3VUSettings@@A) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "int RecoilCrosshairX" (?RecoilCrosshairX@@3HA) already defined in bhop.obj; second definition ignored
+WorldToScreen.obj : warning LNK4006: "int RecoilCrosshairY" (?RecoilCrosshairY@@3HA) already defined in bhop.obj; second definition ignored
+C:\Users\olive\Documents\MEGAsync Downloads\CSGO-Base-main (1)\CSGO-Base-main\Debug\DLL.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Strayfaded.vcxproj -> C:\Users\olive\Documents\MEGAsync Downloads\CSGO-Base-main (1)\CSGO-Base-main\Debug\DLL.dll
